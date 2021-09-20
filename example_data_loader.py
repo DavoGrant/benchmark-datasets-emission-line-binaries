@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 
 REPO_PATH = ''
-DATASET = 'synthetic_gp_systemtics/sb1_dataset_gp_systematics.p'
+DATASET = 'synthetic_gp_systematics/sb1_dataset_gp_systematics.p'
 
 # Load data.
 if os.path.splitext(DATASET)[1] == '.p':
@@ -38,6 +38,7 @@ else:
     raise ValueError('Dataset filetype not recognised.')
 
 # Data columns.
+print('Synthetic objects loaded={}'.format(len(sb1_dataset)))
 print(sb1_dataset.columns)
 
 # Iterate binaries.
