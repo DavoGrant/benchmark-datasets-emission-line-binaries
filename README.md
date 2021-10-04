@@ -6,8 +6,8 @@ Python version: 3.8<br>
 
 ## Contents
 [Overview](#overview)<br>
-[Quick start](#quick_start)<br>
-[The datasets](#the_datasets)<br>
+[Quick start](#quick-start)<br>
+[The datasets](#the-datasets)<br>
 [Publications](#publications)<br>
 
 ## Overview
