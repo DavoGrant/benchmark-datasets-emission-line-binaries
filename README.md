@@ -128,4 +128,6 @@ You can refer to the script example_data_loader.py, mentioned in the quick start
 documentation, for a minimal example if you need more help getting going.
 
 ## Publications
-Publications associated with these data [tbc].
+The associated paper is available at:
+https://arxiv.org/abs/2110.10537
+
