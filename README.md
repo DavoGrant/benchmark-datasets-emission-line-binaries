@@ -129,5 +129,6 @@ documentation, for a minimal example if you need more help getting going.
 
 ## Publications
 The associated paper is available at:<br>
+https://doi.org/10.1093/mnras/stab3057 <br>
 https://arxiv.org/abs/2110.10537
 
